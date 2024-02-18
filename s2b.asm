@@ -4,15 +4,15 @@
 ; Alright, time for some info...
 ; Internally, the zone order goes like this:
 ; 00 - Green Hill
-; 01 - Zone 01 (UNUSED)
+; 01 - Zone 01
 ; 02 - Wood
-; 03 - Zone 03 (UNUSED)
+; 03 - Zone 03
 ; 04 - Metropolis
 ; 05 - Metropolis Act 3
-; 06 - Zone 06 (UNUSED)
+; 06 - Zone 06
 ; 07 - Hill Top
 ; 08 - Hidden Palace
-; 09 - Zone 09 (UNUSED)
+; 09 - Zone 09
 ; 0A - Oil Ocean
 ; 0B - Dust Hill
 ; 0C - Casino Night
